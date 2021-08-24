@@ -4,7 +4,7 @@ Create a simple chat app that will display and send messages. Messages will be f
 
 ### Visual example:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59bd5839-d3db-4142-8e99-ad591748bab0/Screenshot_2021-07-09_at_16.02.33.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59bd5839-d3db-4142-8e99-ad591748bab0/Screenshot_2021-07-09_at_16.02.33.png)
+![./comms-test-task.png](./comms-test-task.png)
 
 ### Requirements:
 
